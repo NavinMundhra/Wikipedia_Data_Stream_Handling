@@ -15,6 +15,8 @@ __How to Run__
 The code is a python file which has to be run via the terminal as:
 > python pothi.py
 
+_Requirements_
+* Python 3 installed in the user device following which the code can be downloaded and run directly from the terminal/GUI.
 * The code requires the user to give input regarding the report required. A menu with the same appears on stdout when the code is run.
 * Following the input given by the user, the report for the same is generated.
 * No libraries are required to be downloaded
