@@ -19,5 +19,4 @@ The code is a python file which has to be run via the terminal as:
 * Following the input given by the user, the report for the same is generated.
 * No libraries are required to be downloaded
 
-
-- Navin Mundhra
+By Navin Mundhra
