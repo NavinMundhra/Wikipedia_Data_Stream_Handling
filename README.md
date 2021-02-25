@@ -1,8 +1,8 @@
-# Pothi.com Coding Assignment
+# Wikipedia Data Stream Handling
 
-__Pothi.com coding assignment on Wikipedia Watching__
+__Wikipedia Watching__
 
-Pothi.py is the code which prints Domain and User reports on changes made in Wikipedia domains. The following are the reports generated: 
+wiki.py is the code which prints Domain and User reports on changes made in Wikipedia domains. The following are the reports generated: 
 1. **Domain report**:
   Prints the number of the Wikipedia domains that have been updated, followed by a list of the domains sorted by the count of how many unique pages were updated on each. Pages with the same title are assumed to be the same.
 2. **User report**:
@@ -13,7 +13,7 @@ Each report is available in 1 minute format and 5 minute format with minute-wise
 __How to Run__
 
 The code is a python file which has to be run via the terminal as:
-> python pothi.py
+> python wiki.py
 
 _Requirements_
 * Python 3 installed in the user device following which the code can be downloaded and run directly from the terminal/GUI.
